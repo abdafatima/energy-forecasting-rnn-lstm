@@ -51,10 +51,3 @@ This repository presents a comprehensive time-series forecasting project using S
 - LSTMs overcome gradient issues and perform well on real-world forecasting.
 - Model tuning (layers, dropout, epochs, optimizer) significantly affects performance.
 
-## 🔖 License
-
-This project is under the [ODbL v1.0 License](https://opendatacommons.org/licenses/odbl/1-0/), allowing reuse and modification with attribution.
-
----
-
-🚀 For full results and visualizations, check out the [`notebooks/`](./notebooks) and [`results/`](./results) directories.
