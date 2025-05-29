@@ -35,14 +35,7 @@ This repository presents a comprehensive time-series forecasting project using S
 - NumPy, Pandas, Matplotlib
 - Jupyter Notebook
 
-## 📁 Folder Structure
 
-- `data/` – Contains (or links to) datasets.  
-- `notebooks/` – Development notebooks for each project part.  
-- `results/` – Plots and forecast output.  
-- `models/` – Saved trained models (e.g., `.h5` files).  
-- `ADTA_5560_final_project.docx` – Full written report.  
-- `README.md` – This documentation.
 
 ## 🧠 Key Learning
 
