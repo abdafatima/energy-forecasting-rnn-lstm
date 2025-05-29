@@ -2,14 +2,14 @@
 
 This repository presents a comprehensive time-series forecasting project using SimpleRNN and LSTM architectures. It is based on the **Appliances Energy Prediction** dataset and was developed as part of the ADTA 5560 Neural Network course.
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** UCI Machine Learning Repository  
 - **Access:** [Kaggle Link](https://www.kaggle.com/datasets/sohommajumder21/appliances-energy-prediction-data-set)  
 - **Size:** 19,735 rows × 29 columns  
 - **Task:** Predict future appliance energy usage based on environmental variables.
 
-## 📌 Project Highlights
+##  Project Highlights
 
 ### PART II: Simple RNN on Sine Wave
 - Modeled a synthetic sine wave to demonstrate basic sequential prediction.
@@ -28,7 +28,7 @@ This repository presents a comprehensive time-series forecasting project using S
 - Compared original and redesigned networks.
 - Found that the deeper LSTM significantly outperforms SimpleRNN and basic LSTM in accuracy and generalization.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python 3.9+
 - TensorFlow / Keras
@@ -37,7 +37,7 @@ This repository presents a comprehensive time-series forecasting project using S
 
 
 
-## 🧠 Key Learning
+##  Key Learning
 
 - RNNs are simple but limited in handling long-term dependencies.
 - LSTMs overcome gradient issues and perform well on real-world forecasting.
